@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=-JuanXKernel-5.10.253-KSUN-SusFS
+kernel.string=-JuanXKernel-5.10.254-KSUN-SusFS
 do.devicecheck=0
 do.modules=0
 do.systemless=0
